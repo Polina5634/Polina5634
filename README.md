@@ -2,17 +2,10 @@
 Data Analyst / BI-analyst
 
 ## 🛠 Мой стек технологий
-Языки: 
-- Python,
-- SQL
-Анализ данных:
-- Pandas,
-- NumPy,
-- SciPy,
-- Matplotlib,
-- Seaborn
-Работа с данными: PostgreSQL, A/B тестирование
-Инструменты: Git, Jupyter
+- Языки: Python, SQL
+- Анализ данных: Pandas, NumPy, SciPy, Matplotlib, Seaborn
+- Работа с данными: PostgreSQL, A/B тестирование
+- Инструменты: Git, Jupyter
 
 🔭 I’m currently working on ...
 🌱 I’m currently learning ...
