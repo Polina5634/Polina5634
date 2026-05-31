@@ -21,7 +21,7 @@ Data Analyst / BI-analyst
 -
 
 ### Мои дашборды
-[Донор](https://datalens.ru/jb887i8qql484)
+[🩸DonorSearch: исследование активности доноров и стратегий мотивации](https://datalens.ru/jb887i8qql484)
 
 ### Мои проекты 
 -
