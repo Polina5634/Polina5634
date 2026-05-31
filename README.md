@@ -16,7 +16,8 @@ Data Analyst / BI-analyst
 - Средства визуализации данных: ``DataLens``, ``Matplotlib``, ``Seaborn``
 
 ### Мои дашборды
-🩸[DonorSearch](https://datalens.yandex/jb887i8qql484): исследование активности доноров и стратегий мотивации
+- 🩸[DonorSearch](https://datalens.yandex/jb887i8qql484): исследование активности доноров и стратегий мотивации
+- [HH.ru](https://datalens.yandex/f6hpdswl7igc0)
 
 ### Мои проекты 
 -
