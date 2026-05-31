@@ -10,11 +10,10 @@ Data Analyst / BI-analyst
 - Собственно работа в Яндексе и побудила меня перейди в сферу IT :)
 
 ### 🛠 Hard skills
-- Python, SQL
-- Excel/Google Sheets
-- Библиотеки Python: Pandas, NumPy, SciPy, Matplotlib, Seaborn
-- Работа с данными: PostgreSQL, A/B тестирование
-- Инструменты: Git, Jupyter
+- Инструменты анализа данных: ``SQL``, ``Excel/Google Sheets``: 
+- Языки программирования и библиотеки: ``Python``, ``Pandas``, ``NumPy`` 
+- Системы управления базами данных: ``MySQL``, ``PostgreSQL``
+- Средства визуализации данных: ``DataLens``, ``Matplotlib``, ``Seaborn``
 
 ### 💁‍♀️ Soft skills
 
