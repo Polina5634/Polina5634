@@ -1,6 +1,6 @@
 ### *⌛️ в процессе заполнения...*
 
-## Всем привет 
+## Привет! 
 Data Analyst / BI-analyst
 
 ### Обо мне
@@ -19,6 +19,9 @@ Data Analyst / BI-analyst
 -
 -
 -
+
+### Мои дашборды
+https://dzen.ru/?yredirect=true
 
 ### Мои проекты 
 -
