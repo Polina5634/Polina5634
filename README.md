@@ -2,26 +2,13 @@
 Data Analyst / BI-analyst
 
 ## 🛠 Hard skills
-- Языки: Python, SQL
-- Анализ данных: Pandas, NumPy, SciPy, Matplotlib, Seaborn
+- Python, SQL
+- Excel/Google Sheets
+- Библиотеки Python: Pandas, NumPy, SciPy, Matplotlib, Seaborn
 - Работа с данными: PostgreSQL, A/B тестирование
 - Инструменты: Git, Jupyter
 
-🔭 I’m currently working on ...
-🌱 I’m currently learning ...
-👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-Всем привет 👋
-
-
-
-
-🔭 Мои проекты
+## 🔭 Мои проекты
 Здесь собраны проекты, демонстрирующие мои навыки в разных областях Data Science:
 
 📊 Анализ данных, статистика
@@ -34,9 +21,11 @@ Data Analyst / BI-analyst
 Стартапы - исследовательский анализ ключевых метрик стартапов для инвестирования средств
 Разработка А/В тестирования и анализ результатов - проверка гипотезы с помощью А/В тестирования
 Агенство недвижимости - анализ рынка недвижимости Санкт-Петербурга и Ленобласти
-📫 Как со мной связаться
+
+## 📫 Как со мной связаться
 Email: vika.savatneeva@bk.ru
 Telegram: @vsvtnvv
+
 ⚡ Интересные факты
 Люблю решать задачи и запросы, где результат работы можно "пощупать"
 Люблю работу с метриками и цифрами, а также порядок в них. Разбирать взаимосвязи, находить несостыковки, выдвигать гипотезы, делать выводы
