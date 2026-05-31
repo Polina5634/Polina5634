@@ -17,7 +17,7 @@ Data Analyst / BI-analyst
 
 ### Мои дашборды
 - 🩸[DonorSearch](https://datalens.yandex/jb887i8qql484): исследование активности доноров и стратегий мотивации
-- 🏢[Аналитика рынка недвижимости](https://datalens.yandex/qj4vx2ffu2s4c) 
+- 🏢 [Аналитика рынка недвижимости](https://datalens.yandex/qj4vx2ffu2s4c) 
 - [HH.ru](https://datalens.yandex/f6hpdswl7igc0)
 
 ### Мои проекты 
