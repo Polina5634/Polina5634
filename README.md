@@ -15,11 +15,6 @@ Data Analyst / BI-analyst
 - Системы управления базами данных: ``MySQL``, ``PostgreSQL``
 - Средства визуализации данных: ``DataLens``, ``Matplotlib``, ``Seaborn``
 
-### 💁‍♀️ Soft skills
--
--
--
-
 ### Мои дашборды
 [🩸DonorSearch: исследование активности доноров и стратегий мотивации](https://datalens.yandex/jb887i8qql484)
 
