@@ -1,7 +1,7 @@
 ## Всем привет 👋
 Data Analyst / BI-analyst
 
-## 🛠 Мой стек технологий
+## 🛠 Hard skills
 - Языки: Python, SQL
 - Анализ данных: Pandas, NumPy, SciPy, Matplotlib, Seaborn
 - Работа с данными: PostgreSQL, A/B тестирование
