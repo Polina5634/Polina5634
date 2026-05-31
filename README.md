@@ -10,7 +10,7 @@ Data Analyst / BI-analyst
 - Собственно работа в Яндексе и побудила меня перейди в сферу IT :)
 
 ### 🛠 Hard skills
-- Инструменты анализа данных: ``SQL``, ``Excel/Google Sheets``: 
+- Инструменты анализа данных: ``SQL``, ``Excel/Google Sheets``
 - Языки программирования и библиотеки: ``Python``, ``Pandas``, ``NumPy`` 
 - Системы управления базами данных: ``MySQL``, ``PostgreSQL``
 - Средства визуализации данных: ``DataLens``, ``Matplotlib``, ``Seaborn``
