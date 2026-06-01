@@ -17,7 +17,7 @@ Data Analyst / BI-analyst
 
 ### Мои дашборды
 - 🩸[DonorSearch](https://datalens.yandex/jb887i8qql484): исследование активности доноров и стратегий мотивации
-- [HH.ru](https://datalens.yandex/f6hpdswl7igc0)
+- 📊[Вакансии аналитиков на hh.ru: май–июнь 2024](https://datalens.yandex/f6hpdswl7igc0)
 
 ### Мои проекты 
 -
