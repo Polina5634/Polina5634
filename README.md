@@ -16,9 +16,10 @@ Data Analyst / BI-analyst
 - Средства визуализации данных: ``DataLens``, ``Matplotlib``, ``Seaborn``
 
 ### Мои дашборды
+- ❤️[Ключевые бизнес-метрики АиФ Доброе сердце](https://datalens.yandex/vc3qc4yy817mf)
 - 🩸[DonorSearch](https://datalens.yandex/jb887i8qql484): исследование активности доноров и стратегий мотивации
 - 📊[Вакансии аналитиков на hh.ru](https://datalens.yandex/f6hpdswl7igc0): май–июнь 2024
-- [Ключевые бизнес-метрики АиФ Доброе сердце](https://datalens.yandex/vc3qc4yy817mf)
+
 
 ### Мои проекты 
 -
